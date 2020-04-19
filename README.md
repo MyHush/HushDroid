@@ -4,9 +4,29 @@ Hush Android Phone - Based on GrapheneOS
 
 <img src="https://raw.githubusercontent.com/MyHush/HushDroid/master/hushdroid0.png">
 
+## FAQ
+
+### Can I buy any random Android and install this?
+
+No. Only Pixel 3, Pixel 3a, Pixel 3 XL and Pixel 3a XL will currently work, because that is all that Graphene supports.
+
+### Can you support my random old Android phone?
+
+No, please do not ask us.
+
+## Will any Pixel 3 work?
+
+No! It must be carrier-unlocked, so don't buy it from a carrier! This means do not buy it from Verizon or any phone carrier.
+Buying directly from Google or Amazon or a third-party seller is necessary. Phone companies do not want you to get rid of
+their custom spyware that they charge other companies to place in their custom Android version. Never trust a phone from a carrier.
+
 ## How to Install Your own HushDroid
 
-Firstly, we will be installing GrapheneOS.
+Firstly, we will be installing GrapheneOS. This "Tales From The Crypt" video shows every step in an easy-to-follow way:
+
+https://www.youtube.com/watch?v=oO0UFZjuotg&feature=youtu.be
+
+
 
 
 
