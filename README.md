@@ -2,6 +2,8 @@
 
 Hush Android Phone - Based on GrapheneOS
 
+<img src="https://raw.githubusercontent.com/MyHush/HushDroid/master/hushdroid0.png">
+
 ## How to Install Your own HushDroid
 
 Firstly, we will be installing GrapheneOS.
