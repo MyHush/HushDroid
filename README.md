@@ -58,6 +58,16 @@ sudo fastboot flashing lock
 
 Now you have a phone which doesn't spy on you, as long as you don't put in a SIM or opt-in to Google services.
 
+## Installing SDA app
+
+Currently SDA is only on Google Play, but not yet on FDroid, so you will need to install from Github and enable the installing of "untrusted" APKs
+
+
+<img src="https://raw.githubusercontent.com/MyHush/HushDroid/master/hushdroid1.png">
+
+<img src="https://raw.githubusercontent.com/MyHush/HushDroid/master/hushdroid2.png">
+
+
 
   
   
