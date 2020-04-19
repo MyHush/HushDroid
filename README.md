@@ -12,10 +12,7 @@ Firstly, we will be installing GrapheneOS.
 
 ## Things You Will Need
   * wifi access (to give to the phone)
-  * USB cable to connect phone to computer
-  
-  
-
+  * USB-C cable to connect phone to computer. Make sure to use the cable that came with the phone! Others are likely to not work correctly.
   * Read https://grapheneos.org/install
   * Install the correct version of `fastboot` from https://developer.android.com/studio/releases/platform-tools , must have at least 28.0.2 . Installing the latest version is probably best
   * `fastboot --version` to see installed version
