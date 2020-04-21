@@ -14,11 +14,25 @@ No. Only Pixel 3, Pixel 3a, Pixel 3 XL and Pixel 3a XL will currently work, beca
 
 No, please do not ask us.
 
-## Will any Pixel 3 work?
+### Will any Pixel 3 work?
 
 No! It must be carrier-unlocked, so don't buy it from a carrier! This means do not buy it from Verizon or any phone carrier.
 Buying directly from Google or Amazon or a third-party seller is necessary. Phone companies do not want you to get rid of
 their custom spyware that they charge other companies to place in their custom Android version. Never trust a phone from a carrier.
+
+### Who is this phone for?
+
+This is for people who value their privacy, especially location privacy. By avoiding a SIM and avoiding all Google services,
+you have a much higher base level of privacy. This phone can be used for any purposes and is not special to Hush, other
+than have Hush and Hush-vetted apps pre-installed with our custom default OS configuration.
+
+
+### Should I do it myself or trust y'all?
+
+If you have Linux CLI experience, you are able to do it all yourself and we highly recommend that. We do not want you to trust us unless you have to! For those that do not have Linux CLI experience, and who already trust Hush open source software, we feel this is a viable option which still greatly improves privacy.
+
+Again, we prefer if you buy a Pixel yourself and do it all yourself, so you don't have to trust us with your hardware!
+We know that is not an option for many people, so selling pre-installed HushDroids fills that gap.
 
 ## How to Install Your own HushDroid
 
