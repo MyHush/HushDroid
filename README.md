@@ -6,6 +6,13 @@ Hush Android Phone - Based on GrapheneOS
 
 ## FAQ
 
+### DIY install is cool, but how can I buy a fully setup HushDroid?
+
+We are currently working on finalizing details and adding a shopping cart to our website so that HushDroids can be ordered
+with BTC and HUSH and potentially a few others currencies.
+
+The best way to stay informed is to join our [Discord](https://myhush.org/discord) in the #hushdroid channel.
+
 ### Can I buy any random Android and install this?
 
 No. Only Pixel 3, Pixel 3a, Pixel 3 XL and Pixel 3a XL will currently work, because that is all that Graphene supports.
@@ -33,6 +40,12 @@ If you have Linux CLI experience, you are able to do it all yourself and we high
 
 Again, we prefer if you buy a Pixel yourself and do it all yourself, so you don't have to trust us with your hardware!
 We know that is not an option for many people, so selling pre-installed HushDroids fills that gap.
+
+### Does this replace my everyday phone?
+
+No. This phone is a new, more private, isolated and compartmentalized device. You should avoid putting a SIM in it
+to increase your location privacy and you shoud avoid installing various common apps that track you. So consider the HushDroid a new addition to your privacy toolbox, not a replacement for the insecure phone you must have to interact with the rest of society.
+
 
 ## How to Install Your own HushDroid
 
