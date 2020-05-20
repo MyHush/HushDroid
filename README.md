@@ -19,7 +19,8 @@ No. Only Pixel 3, Pixel 3a, Pixel 3 XL and Pixel 3a XL will currently work, beca
 
 ### Can you support my random old Android phone?
 
-No, please do not ask us.
+No, please do not ask us. But you can use LineageOS with SDA on any old phone for better privacy+security than old insecure
+stock Android.
 
 ### Will any Pixel 3 work?
 
